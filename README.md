@@ -56,6 +56,7 @@ The tools listed below are commonly used in penetration testing, and the tool ca
    * [domains](https://weakpass.com/generate/domains) - Generate subdomains and wordlists Online.
 
 #### Google Hacking
+![](google-hacking.jpg)
 
 * [GHDB](https://www.exploit-db.com/google-hacking-database/) - Google Hack Database  ![](svg/chrome.svg)
 * [SearchDiggity](http://www.bishopfox.com/resources/tools/google-hacking-diggity/attack-tools/) - SearchDiggity 3.1 is the primary attack tool of the Google Hacking Diggity Project ![](svg/Windows.svg)
@@ -65,6 +66,7 @@ The tools listed below are commonly used in penetration testing, and the tool ca
 * [Google-Dorks](https://github.com/Proviesec/google-dorks) - Useful Google Dorks for WebSecurity and Bug Bounty
 
 #### Github 
+![](github.jpg)
 
 * [GitHacker](https://github.com/WangYihang/GitHacker) - 🕷️ A Git source leak exploit tool that restores the entire Git repository, including data from stash, for white-box auditing and analysis of developers' mind. ![](svg/Windows.svg)![](svg/linux.svg)![](svg/mac.svg)
 * [GitGraber](https://github.com/hisxo/gitGraber) - gitGraber is a tool developed in Python3 to monitor GitHub to search and find sensitive data in real time for different online services. ![](svg/Windows.svg)![](svg/linux.svg)![](svg/mac.svg)
@@ -74,11 +76,13 @@ The tools listed below are commonly used in penetration testing, and the tool ca
 * [GitDump](https://github.com/Ebryx/GitDump) - A pentesting tool that dumps the source code from .git even when the directory traversal is disabled
 
 #### SVN
+![](svn.png)
 
 * [svnExploit](https://github.com/admintony/svnExploit) - Support for SVN source code disclosure of full version and Dump it. ![](svg/Windows.svg)![](svg/linux.svg)![](svg/mac.svg)
 * [SvnHack](https://github.com/callmefeifei/SvnHack) - SvnHack is a SVN folder disclosure exploit. :lock:
  
 #### Port Scan
+![](portscan.jpg)
 
 * [Nmap | Zenmap](https://nmap.org/) - Free and open source utility for network discovery and security auditing
 * [Masscan](https://github.com/robertdavidgraham/masscan) - TCP port scanner, spews SYN packets asynchronously
@@ -95,6 +99,7 @@ The tools listed below are commonly used in penetration testing, and the tool ca
 * [Naabu](https://github.com/projectdiscovery/naabu) - A fast port scanner written in go with a focus on reliability and simplicity.
 
 #### OSINT
+![](osint.jpeg)
 
 * [theHarvester](https://github.com/laramies/theHarvester)- E-mails, subdomains and names Harvester - OSINT
 * [SpiderFoot](https://github.com/smicallef/spiderfoot) - SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.
@@ -114,6 +119,7 @@ The tools listed below are commonly used in penetration testing, and the tool ca
 
 
 ### Phishing
+![](phishing.png)
 * [gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
 * [AdvPhishing](https://github.com/Ignitetch/AdvPhishing) - This is Advance Phishing Tool ! OTP PHISHING
 * [SocialFish](https://github.com/UndeadSec/SocialFish) - Educational Phishing Tool & Information Collector
@@ -121,6 +127,7 @@ The tools listed below are commonly used in penetration testing, and the tool ca
 * [Nexphisher](https://github.com/htr-tech/nexphisher) - Advanced Phishing tool for Linux & Termux
  
 ### Vulnerability Analysis
+![](vuln.png)
 
 #### Fuzzing
 
@@ -147,6 +154,7 @@ The tools listed below are commonly used in penetration testing, and the tool ca
 * [Afrog](https://github.com/zan8in/afrog) -  A Vulnerability Scanning Tools For Penetration Testing
 
 ### Web Applications
+![](webapp.png)
 
 ####  CMS & Framwork Identification
 
@@ -203,6 +211,7 @@ The tools listed below are commonly used in penetration testing, and the tool ca
 
  
 ### Database Assessment
+![](database.png)
 
 * [Enumdb](https://github.com/m8sec/enumdb) - Relational database brute force and post exploitation tool for MySQL and MSSQL
 * [MDUT](https://github.com/SafeGroceryStore/MDUT) - Multiple Database Utilization Tools
@@ -211,6 +220,7 @@ The tools listed below are commonly used in penetration testing, and the tool ca
 * [MSDAT](https://github.com/quentinhardy/msdat) - Microsoft SQL Database Attacking Tool
 
 ### Password Attacks
+![](pass.jpg)
 
 * [Hydra](https://github.com/vanhauser-thc/thc-hydra) - Hydra is a parallelized login cracker which supports numerous protocols to attack
 * [Medusa](http://foofus.net/goons/jmk/medusa/medusa.html) - Medusa is intended to be a speedy, massively parallel, modular, login brute-forcer
