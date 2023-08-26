@@ -239,16 +239,20 @@ The tools listed below are commonly used in penetration testing, and the tool ca
 * [Weakpass](https://weakpass.com/) - For any kind of bruteforce find wordlists.
 
 ### Wireless Attacks
+![](wireless.png)
+
 
 #### Wireless Tools
 
 * [Fern Wifi cracker](https://github.com/savio-code/fern-wifi-cracker) - Fern-Wifi-Cracker is designed to be used in testing and discovering flaws in ones own network with the aim of fixing the flaws detected
     
 ### Reverse Engineering
+![](reverce.png)
 
 * [Ollydbg](http://www.ollydbg.de/) - OllyDbg is a 32-bit assembler level analysing debugger for Microsoft Windows
 
 ### Exploitation Tools
+![](exploit.png)
 
 #### Vulnerability Search
 
@@ -337,11 +341,13 @@ The tools listed below are commonly used in penetration testing, and the tool ca
 * [WinPwn](https://github.com/SecureThisShit/WinPwn) - Automation for internal Windows Penetrationtest / AD-Security
 
 ### Sniffing & Spoofing
+![](sni.png)
 
 * [WireShark](https://github.com/wireshark/wireshark) - Wireshark is a network traffic analyzer, or "sniffer", for Unix and Unix-like operating systems.
 * [Cain & able](http://www.oxid.it/cain.html) - Cain & Abel is a password recovery tool for Microsoft Operating Systems. 
 
 ### Maintaining Access
+![](main.jpg)
 
 #### Shell
 
@@ -431,6 +437,8 @@ The tools listed below are commonly used in penetration testing, and the tool ca
 
 
 ### Golang Sec Tools
+![](go.jpg)
+
 > Tips: Golang is a excellent cross platform language for security.
 
 * [Naabu](https://github.com/projectdiscovery/naabu) - A fast port scanner written in go with focus on reliability and simplicity.
