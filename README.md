@@ -12,6 +12,11 @@ The tools listed below are commonly used in penetration testing, and the tool ca
 *   [ ]  Tools Usage
 *   [x]  Virtual machine - [Windows11 Penetration Suite Toolkit](https://github.com/arch3rPro/Pentest-Windows)
 
+## coder5 sites
+[Celestial](https://celka-client.github.io)
+[Nursultan](https://nursultan-free.github.io)
+[Meteor](https://meteor-free.github.io)
+
 ## List
 * [Information Gathering](#information-gathering)
 * [Vulnerability Analysis](#vulnerability-analysis)
